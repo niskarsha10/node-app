@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2",
+    "should": "^13.2.3",
+    "supertest": "^6.2.2"
+  }
+}
